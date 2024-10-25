@@ -1,0 +1,14 @@
+C:\Users\zombi\Desktop\DH52201639-TranMinhTri\22-10 LTHDT\LTHDT 22-10\LTHDT 22-10\obj\Debug\net6.0\LTHDT 22-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zombi\Desktop\DH52201639-TranMinhTri\22-10 LTHDT\LTHDT 22-10\LTHDT 22-10\obj\Debug\net6.0\LTHDT 22-10.AssemblyInfoInputs.cache
+C:\Users\zombi\Desktop\DH52201639-TranMinhTri\22-10 LTHDT\LTHDT 22-10\LTHDT 22-10\obj\Debug\net6.0\LTHDT 22-10.AssemblyInfo.cs
+C:\Users\zombi\Desktop\DH52201639-TranMinhTri\22-10 LTHDT\LTHDT 22-10\LTHDT 22-10\obj\Debug\net6.0\LTHDT 22-10.csproj.CoreCompileInputs.cache
+C:\Users\zombi\Desktop\DH52201639-TranMinhTri\22-10 LTHDT\LTHDT 22-10\LTHDT 22-10\bin\Debug\net6.0\LTHDT 22-10.exe
+C:\Users\zombi\Desktop\DH52201639-TranMinhTri\22-10 LTHDT\LTHDT 22-10\LTHDT 22-10\bin\Debug\net6.0\LTHDT 22-10.deps.json
+C:\Users\zombi\Desktop\DH52201639-TranMinhTri\22-10 LTHDT\LTHDT 22-10\LTHDT 22-10\bin\Debug\net6.0\LTHDT 22-10.runtimeconfig.json
+C:\Users\zombi\Desktop\DH52201639-TranMinhTri\22-10 LTHDT\LTHDT 22-10\LTHDT 22-10\bin\Debug\net6.0\LTHDT 22-10.dll
+C:\Users\zombi\Desktop\DH52201639-TranMinhTri\22-10 LTHDT\LTHDT 22-10\LTHDT 22-10\bin\Debug\net6.0\LTHDT 22-10.pdb
+C:\Users\zombi\Desktop\DH52201639-TranMinhTri\22-10 LTHDT\LTHDT 22-10\LTHDT 22-10\obj\Debug\net6.0\LTHDT 22-10.dll
+C:\Users\zombi\Desktop\DH52201639-TranMinhTri\22-10 LTHDT\LTHDT 22-10\LTHDT 22-10\obj\Debug\net6.0\refint\LTHDT 22-10.dll
+C:\Users\zombi\Desktop\DH52201639-TranMinhTri\22-10 LTHDT\LTHDT 22-10\LTHDT 22-10\obj\Debug\net6.0\LTHDT 22-10.pdb
+C:\Users\zombi\Desktop\DH52201639-TranMinhTri\22-10 LTHDT\LTHDT 22-10\LTHDT 22-10\obj\Debug\net6.0\LTHDT 22-10.genruntimeconfig.cache
+C:\Users\zombi\Desktop\DH52201639-TranMinhTri\22-10 LTHDT\LTHDT 22-10\LTHDT 22-10\obj\Debug\net6.0\ref\LTHDT 22-10.dll
